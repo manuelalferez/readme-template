@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/manuelalferez/readme-template">
-    <img src="https://cdn-icons-png.flaticon.com/512/3845/3845877.png" alt="Logo" width="80" height="80">
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/3845/3845877.png" alt="Logo" width="80">
+</p>
+
 
   <h3 align="center">README Template</h3>
 
